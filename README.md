@@ -1,2 +1,0 @@
-# dentra
-full-stake project
